@@ -1,1 +1,6 @@
+These are the files containing data from the cosmic distance ladder:
 
+Y_r22-pantheon+_cor.fits: data vector with standardized apparent magnitudes of supernovae
+Y_r22-pantheon+_unc.fits: data vector with non-standardized apparent magnitudes of supernovae
+Y_syn_r22.fits: data vector with synthetic data based on the fit made by Riess et al. (2022)
+Y_syn_w22.fits: data vector with synthetic data based on the fit made by Wojtak et al. (2022)
