@@ -1,0 +1,9 @@
+#The covariance matrices can be found at the following link:
+
+#https://drive.google.com/drive/folders/1bEyR2JVUJQjmKRod8xwQCtyDgjEMaOcW?usp=sharing
+
+#in which:
+
+#C_diag.fits: diagonal version of the covariance matrix from Riess et al. (2022)
+#C_r22-pantheon+_cor.fits: hybrid covariance matrix R22/Pantheon+ for standardized apparent magnitudes of supernovae
+#C_r22-pantheon+_unc.fits: hybrid covariance matrix R22/Pantheon+ for non-standardized apparent magnitudes of supernovae
