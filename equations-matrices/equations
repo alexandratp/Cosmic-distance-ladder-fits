@@ -1,1 +1,5 @@
+These are the files with the theoretical equation matrices for each model:
 
+L_I.fits: standard color correction model
+L_II.fits: color correction model with two color correction coefficients
+L_III.fits: color correction model with two color correction coefficients and a reference color
