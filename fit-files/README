@@ -1,1 +1,5 @@
+These are the files needed to fit the data:
 
+fit_r22.py: code to fit data with standardized apparent magnitudes of supernovae
+fit_I.py: code to fit data with non-standardized apparent magnitudes of supernovae and standard color correction model
+fit_II-III.py: code to fit data with non-standardized apparent magnitudes of supernovae and alternative color correction models
